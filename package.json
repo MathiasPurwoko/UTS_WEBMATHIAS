@@ -1,0 +1,23 @@
+{
+  "name": "uts_webmathias",
+  "version": "1.0.0",
+  "description": "uts pemrog web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MathiasPurwoko/UTS_WEBMATHIAS.git"
+  },
+  "keywords": [
+    "pemrog",
+    "web"
+  ],
+  "author": "Purwoko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MathiasPurwoko/UTS_WEBMATHIAS/issues"
+  },
+  "homepage": "https://github.com/MathiasPurwoko/UTS_WEBMATHIAS#readme"
+}
